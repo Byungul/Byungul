@@ -1,6 +1,6 @@
 <div align="center">
   
-![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+![It's me](https://github.com/Byungul/Byungul/assets/101097111/1ec0eb75-8ef3-47b6-ab17-1b44e309a6bc)
   
   <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
