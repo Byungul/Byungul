@@ -23,7 +23,7 @@
   <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
  
   [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:labhg64@gmail.com)
-  [![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://efficacious-pomelo-4e3.notion.site/d78834f500c94ed3aa9fa8cf206bbefb?pvs=4)]
+  [![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://efficacious-pomelo-4e3.notion.site/d78834f500c94ed3aa9fa8cf206bbefb?pvs=4)
   <br/><br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=labhg)](https://solved.ac/labhg/)
 </div>
