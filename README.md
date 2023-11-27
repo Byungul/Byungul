@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=#3776AB" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=#377777" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=#000000" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
