@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=#000000" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
 #005571
-<img src="https://img.shields.io/badge/Elasticsearch-#005571?style=for-the-badge&logo=Elasticsearch&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
