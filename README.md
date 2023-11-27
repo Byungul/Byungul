@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=#3776AB" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=#000000" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <br>
+#005571
+<img src="https://img.shields.io/badge/Elasticsearch-#005571?style=for-the-badge&logo=Elasticsearch&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Amazon+S3-F7DF1E?style=for-the-badge&color=569A31&logo=Amazon+S3&logoColor=FFFFFF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
